@@ -16,7 +16,7 @@ else:
 
 
 # Contract address 
-contract_address = "0x84692A8c4cc52C78C4c2493a37c66428D1151345"  # Your deployed contract address
+contract_address = "0x84692A8c4cc52C78C4c2493a37c66428D1151345"  
 
 # Load the compiled contract ABI
 with open("compiled_code.json", "r") as file:
